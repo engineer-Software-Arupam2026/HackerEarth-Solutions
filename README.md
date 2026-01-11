@@ -1,2 +1,2 @@
 # HackerEarth-Solutions
-This repository contains the solved programming problems from Hackerearth (https://www.hackerearth.com/community/practice/)
+This repository contains the solved programming problems from various online Programming platforms (Hackerearth, Scaler, Codechef)
